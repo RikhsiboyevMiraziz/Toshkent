@@ -28,7 +28,7 @@ header{
     flex-direction: column;
 }
 
-.header__info h2{
+.header__info h2 , a{
     margin-top: 292px;
     font-size: 50px;
     color: #70869d;
